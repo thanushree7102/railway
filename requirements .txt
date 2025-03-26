@@ -1,0 +1,22 @@
+# Streamlit
+streamlit==1.32.2
+
+# Google Gemini AI
+google-generativeai==0.4.0
+
+# Audio Processing
+sounddevice==0.4.6
+speechrecognition==3.10.0
+
+# Numerical & Data Handling
+numpy==1.26.4
+pandas==2.2.1
+openpyxl==3.1.2
+
+# Email Handling
+email-validator==2.1.0
+
+# Additional Dependencies
+requests==2.31.0
+PyAudio==0.2.13  # If this fails, remove it!
+CFFI==1.15.1
