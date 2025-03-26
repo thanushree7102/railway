@@ -1,10 +1,16 @@
 streamlit
 numpy
 pandas
-scikit-learn
-matplotlib
+scipy
+speechrecognition
+pydub
+openai
+gemini-ai
+email-validator
 requests
-openai  # If using OpenAI API
-google-generativeai  # If using Gemini AI
-speechrecognition  # If using speech input
-email-validator  # If using email notifications
+beautifulsoup4
+matplotlib
+plotly
+streamlit-option-menu
+streamlit-lottie
+streamlit-extras
